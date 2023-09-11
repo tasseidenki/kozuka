@@ -45,5 +45,7 @@ How-to (main steps):
 4. Flash the latest controller profile onto the m328p, along with the required bootloader: https://github.com/Zekfoo/gbaHD-AIO-Shield/blob/main/controller/controller.ino
 Voila!
 
+**For educational / entertainment purposes only, build at your own risk!**
+
 First demo: Tokyo Game Show 2023, booth 05-N04 (Tassei Denki).
 Based on zwenergy's GBAHD project (github.com/zwenergy/gbaHD).
