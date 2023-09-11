@@ -20,4 +20,5 @@ STP preview:
 <img width="525" alt="Screenshot 2023-09-11 at 4 35 32 PM" src="https://github.com/tasseidenki/kozuka/assets/144659973/4d5cdfb1-621d-4c8e-8c7f-d643e5d0a3e3">
 
 First demo: Tokyo Game Show 2023, booth 05-N04 (Tassei Denki).
+
 Based on zwenergy's GBAHD project (github.com/zwenergy/gbaHD).
