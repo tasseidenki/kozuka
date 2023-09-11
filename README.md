@@ -40,10 +40,11 @@ A few more things:
 
 How-to (main steps):
 1. Configure the slide switch selectors of the SpartanEdge to "boot from SD card". 
-2. Solder the components as directed on the PCB(s), sandwich in the SpartanEdge.
+2. Solder all the components as directed onto the PCB(s), sandwich in the SpartanEdge.
 3. Format your MicroSD card as FAT32 and drop the latest bitstream https://github.com/zwenergy/gbaHD/tree/master/bitstream in its root directory.
 4. Flash the latest controller profile onto the m328p, along with the required bootloader: https://github.com/Zekfoo/gbaHD-AIO-Shield/blob/main/controller/controller.ino
 Voila!
+P.S. It's a good idea to add the controller connector last since it might block your access / make desoldering more complicated if something goes wrong.
 
 **For educational / entertainment purposes only, build at your own risk!**
 
